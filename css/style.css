@@ -1,0 +1,103 @@
+/* 
+    Name        : Harshadkumar Patel
+    Student ID  : N01481887
+    Course      : HTML/CSS Lab 3: Basic CSS 
+*/
+/* body style */
+body{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 2em;    
+}
+/* H1 Heading style */
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    text-align: center;
+    background-color:#1e81b0;
+    max-height: 100%;
+    padding: 25px 25px 25px 25px;
+}
+
+/* H2 Heading style */
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    background-color: #1e81b0;
+    max-height: 50%;
+    padding: 25px 25px 25px 25px;
+}
+.author{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: lightblue;
+    max-height: 50%;
+    padding: 25px 25px 25px 25px;
+}
+#comments{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 25px;
+    color: white;
+    background-color: black;
+    max-height: 50%;
+    padding: 25px 25px 25px 25px;
+}
+/* */
+p{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+/* links style */
+ul, li, a{
+    font-size: large;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* link hover style*/
+a, a:link {
+    color: lightblue;
+}
+a:visited {
+    color: blue;
+}
+a:hover {
+    color: #1e81b0;
+}
+a:active {
+    color: red;
+}
+
+/* Styling for Anchor style */
+a{
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    border-color: black;
+    text-decoration: none;
+    border-radius: 25% 20% 25% 20%;
+    
+}
+/* Button hover style*/
+button:hover{
+    background-color: red;
+}
+
+/* Button style */
+button, a.button{
+    color: #ffffff;
+    background-color: black;
+    width: 10%;
+    height: 10%;
+    border: red;
+    border-radius: 5px 5px 5px 5px;
+    padding: 0.50em 0.50em 0.50em 0.50em;
+}
+/*Footer style*/
+#footer{
+    margin-top: 25px;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    background-color: #1e81b0;
+    color: #ffffff;
+    
+
+}
